@@ -1,5 +1,8 @@
 Hola me llamo Jorge
 
+<img width="3024" height="4032" alt="image" src="https://github.com/user-attachments/assets/96fc0fe2-f288-4552-b1b1-680d33d61e72" />
+
+
 La educación es un derecho universal y la formación nos humaniza
 
 <!--
