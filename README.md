@@ -1,4 +1,5 @@
-## Hi there 👋
+Hola me llamo Jorge
+La educación es un derecho universal y la formación nos humaniza
 
 <!--
 **Jorgejalomo/Jorgejalomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
